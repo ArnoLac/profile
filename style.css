@@ -57,12 +57,13 @@ p {
 
 .list-inline {
   list-style: none;
-  padding-left: 0px;
+  padding: 0px;
 }
 
 .list-inline li {
-  display: inline;
   padding: 10px;
+  display: inline-block;
+  text-align: center;
 }
 
 .list-inline i {
